@@ -1,3 +1,5 @@
+# 너비우선 탐색(BFS) - standard
+
 import sys
 
 from collections import deque
